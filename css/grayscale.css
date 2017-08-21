@@ -99,7 +99,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/cool.jpg") no-repeat bottom center fixed;
+  background: url("../img/intro-bg.jpg") no-repeat bottom center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -155,7 +155,7 @@ a {
 
 .projects-section {
   color: white;
-  /*background: url("../img/downloads-bg.jpg") no-repeat center center scroll;*/
+  background: url("../img/cool.jpg") no-repeat center center fixed;
   background-color: #002F32;
   -webkit-background-size: cover;
   -moz-background-size: cover;
