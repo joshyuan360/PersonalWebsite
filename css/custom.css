@@ -1,0 +1,16 @@
+.modal {
+	bottom: auto;
+}
+
+h4 {
+	color: black;
+}
+
+.lead, .header-4 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.btn-primary {
+	background-color: #01BECE;
+	border-color: #01BECE;
+}

@@ -5,6 +5,10 @@
 	background-color: hsl(216, 100%, 94%);
 }
 
+.modal {
+	bottom: auto;
+}
+
 .jumbotron {
 	background-color: hsl(216, 100%, 90%);
 	height: 100vh;
