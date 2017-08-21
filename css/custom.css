@@ -22,3 +22,12 @@ h4 {
 	background-color: #01BECE;
 	border-color: #01BECE;
 }
+
+.portfolio-item {
+    box-shadow: black 1px 1px 20px 0px;
+    transition-duration: 0.2s
+}
+
+.portfolio-item:hover {
+	box-shadow: black 2px 2px 40px 0px;
+}
