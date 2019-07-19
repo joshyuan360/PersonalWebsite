@@ -688,7 +688,8 @@ hr {
   color: #fff;
   overflow: hidden;
   position: relative;
-  background: url(../img/hero-bg.png);
+  background: url(../img/main.jpg);
+  background-size: cover;
   padding-bottom: 100px;
 }
 
@@ -697,7 +698,8 @@ hr {
 }
 
 #hero-area .contents .head-title {
-  color: #585b60;
+  /*color: #585b60;*/
+  color: #bbb;
   text-transform: uppercase;
   font-size: 50px;
   line-height: 48px;
