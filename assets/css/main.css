@@ -10,6 +10,10 @@ html {
   color: #777;
 }
 
+.company-icon {
+  box-shadow: 7px 7px  rgba(0, 0, 0, 0.1);
+}
+
 #quora-icon {
   background-image: url('../img/logo/quora.png');
   background-size: cover;
@@ -199,14 +203,15 @@ button:focus {
 .social-icon a {
   color: #666;
   background: #fff;
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
   line-height: 34px;
   display: inline-block;
   text-align: center;
   border-radius: 100%;
   font-size: 16px;
   margin: 15px 6px 12px 4px;
+  padding-top: 2px;
   transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -694,10 +699,10 @@ hr {
 #hero-area .contents .head-title {
   color: #585b60;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 50px;
   line-height: 48px;
   font-weight: 700;
-  /*margin-bottom: 30px;*/
+  margin-bottom: 20px;
 }
 
 /* Team Item */
@@ -1023,6 +1028,9 @@ hr {
   height: 100%;
   overflow: hidden;
   position: relative;
+  border-radius:4px;
+  margin: 10px 0px;
+  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.1);
 }
 
 .shot-item img {
